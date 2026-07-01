@@ -1,0 +1,50 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/sirik/AI_Resume_Ranker/screenshots/resume_ranking.html
+Subject: AI Resume Ranker
+Date: Wed, 1 Jul 2026 15:14:16 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--BN6ANAKOMMPyuKoPck2Xa3sV6shbpiZi8FVviAHIoA----"
+
+
+------MultipartBoundary--BN6ANAKOMMPyuKoPck2Xa3sV6shbpiZi8FVviAHIoA----
+Content-Type: text/html
+Content-ID: <frame-1AE2C480B3826BD3FE4FA43AEB1C6411@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/sirik/AI_Resume_Ranker/screenshots/resume_ranking.html
+
+<!-- saved from url=3D(0022)http://127.0.0.1:5000/ --><html><head><meta htt=
+p-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+        <title>AI Resume Ranker</title>
+    </head>
+    <body>
+
+        <h1>AI Resume Ranker</h1>
+
+        <form method=3D"POST" enctype=3D"multipart/form-data">
+
+            <h3>Upload Resumes (PDF)</h3>
+
+            <input type=3D"file" name=3D"resumes[]" multiple=3D"" required=
+=3D"">
+
+            <br><br>
+
+            <h3>Job Description</h3>
+
+            <textarea name=3D"job_description" rows=3D"10" cols=3D"80" requ=
+ired=3D""></textarea>
+
+            <br><br>
+
+            <button type=3D"submit">Rank Resumes</button>
+
+        </form>
+    <h3>Files Uploaded: 1</h3><p>SRI LAVANYA KATTA RESUME.pdf</p><hr><h2>Re=
+sume Rankings</h2><p>1. SRI LAVANYA KATTA RESUME.pdf =E2=86=92 32.19%</p><h=
+3>Top Candidate: SRI LAVANYA KATTA RESUME.pdf</h3>
+   =20
+   =20
+    </body></html>
+------MultipartBoundary--BN6ANAKOMMPyuKoPck2Xa3sV6shbpiZi8FVviAHIoA------
